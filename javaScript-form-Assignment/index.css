@@ -1,0 +1,64 @@
+#registration{
+    max-width: 400%;
+    margin-top: auto;
+}
+label{
+    margin-top: 10px;
+    display: block;
+}
+
+input{
+    width: 100%;
+    margin-top: 5px;
+    padding: 8px 8px;
+    border-radius: 6px;
+}
+
+button{
+    margin-top: 15px;
+    padding: 8px 8px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(0, 48, 100);
+    color: white;
+    
+}
+
+#name-error{
+    color: red;
+}
+#email-error{
+    color: red;
+}
+#gender-error{
+    color: red;
+}
+
+#country-error{
+     color: red;
+
+}
+
+#password-error{
+    color: red;
+}
+
+.one{
+    border: 2px solid green;
+    margin: 20px;
+    padding: 30px;
+
+}
+
+.two{
+    border: 2px solid green;
+    margin: 20px;
+    padding: 30px;
+}
+
+.three{
+ border: 2px solid green;
+    margin: 20px;
+    padding: 30px;
+    
+}
